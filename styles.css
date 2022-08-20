@@ -1,0 +1,79 @@
+html {
+	font-size: 10px;
+}
+
+body {
+	font-family: Source Sans Pro, sans-serif;
+	text-align: left;
+	margin: auto;
+	width: 90%;
+	padding: 50px;
+}
+
+h1 {
+	font-family: Signika, sans-serif, monospace;
+	font-size: 55px;
+	text-align: center;
+}
+
+blockquote {
+	font-style: italic;
+	font-size: 1.4em;
+	margin: 0 0 50px 0;
+	text-align: center;
+}
+
+#img-div {
+	max-width: 100%;
+	margin: auto;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+	margin: auto;
+}
+
+#img-caption {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.7rem;
+	padding: 12px 0 80px 0;
+}
+
+h2 {
+	font-size: 4em;
+	text-align: center;
+}
+
+#divider-container {
+	padding: 10px 0 0 0;
+}
+
+#divider {
+	background-color: #888;
+	width: 10%;
+	height: 1.1px;
+	margin: auto;
+}
+
+ul {
+	max-width: 500px;
+	font-size: 1.6em;
+	line-height: 1.5;
+	padding-top: 50px;
+	margin: auto;
+	text-align: left;
+}
+
+li {
+	margin: 0 0 40px 0;
+}
+
+footer {
+	max-width: 450px;
+	text-align: center;
+	font-size: 2em;
+	padding: 90px 0 10px 0;
+	margin: auto;
+}
